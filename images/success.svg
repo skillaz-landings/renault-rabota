@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="33px" viewBox="0 0 44 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>icons8-checkmark-50</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="244" y="1949" width="50" height="50" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(-247.000000, -1958.000000)">
+            <g id="icons8-checkmark-50">
+                <image x="244" y="1949" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAWFJREFUaAXtmEkKAjEQRdWNOxciTugZPIJH8EBuXblz2HkjQVBwAr2H4EZ/QReEEMXWtEngB4oMnU7q/Up3l5ZKLFSAClABKkAFqECSClST9Npyeor+EdaxxpPqCsQjsxPqblLeZ86OMwAFuaDfSw3EjISA7GFNQgRQgJEIILpzS0bCKUuAQUYigOjOLRkJpywBBhmJPKIPMbme54Ycc+0E8Ip7C0kAR1j4DpNUuQ3zWVzHqeVzA11rgMYNpunyBm1fkXFFoq8b+67LWHAJUxCpfUTmb5EwBXHByM/Lb49ZEAgFcsHscLGhEz6sg0KojwKzgJnHLA9MFBC/wkQF8S1MlBAmzNw6Zlv07WcmaohPYZKAUJgKGiuY+QJYoz+xxiTtKOxjh7W9FHmbzWAmjNmW/50KSTu8eG8t8grmkBKEMtkwSUKYMJKbnWHRPxPq9Lu69u4ir1EBKkAFqAAViF2BJ2Q4tMm0c2f+AAAAAElFTkSuQmCC"></image>
+                <use fill="#FFCC33" fill-rule="evenodd" xlink:href="#rect-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
